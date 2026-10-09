@@ -1,0 +1,6 @@
+{
+  "name": "Greenlight — Spot what's moving on Robinhood Chain first",
+  "description": "Greenlight is a live radar for new and trending tokens on Robinhood Chain. Track fresh launches, volume, liquidity and momentum in one green board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
