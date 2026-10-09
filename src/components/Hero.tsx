@@ -94,7 +94,7 @@ export const Hero: React.FC<HeroProps> = ({ tokens, onSelectToken }) => {
               </span>
 
               <a className="launchbar" id="launchbar" href="#token">
-                <span className="lb-tag">$GREENLIGHT</span>
+                <span className="lb-tag">$GLIHT</span>
                 <span id="lbText">
                   {isLive ? "is live on Robinhood Chain" : "Launching in"}
                 </span>

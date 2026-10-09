@@ -12,7 +12,7 @@ export const Navbar: React.FC = () => {
         <div className="navlinks">
           <a href="#board">Live board</a>
           <a href="#how">How it works</a>
-          <a href="#token">$GREENLIGHT</a>
+          <a href="#token">$GLIHT</a>
         </div>
         <div style={{ display: "flex", gap: "8px" }}>
           <a

@@ -65,7 +65,7 @@ export const TokenSection: React.FC<TokenSectionProps> = ({ onCopy }) => {
         <div className="token">
           <div style={{ position: "relative", zIndex: 1 }}>
             <div className="eyebrow">04 / The token</div>
-            <h2>$GREENLIGHT</h2>
+            <h2>$GLIHT</h2>
             <p>
               The community token behind Greenlight, live on Robinhood Chain. Holders help decide
               what the radar builds next: alerts, watchlists and a Telegram bot.
