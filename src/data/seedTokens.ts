@@ -4,8 +4,8 @@ export const SEED_TOKENS: DexPair[] = [
   {
     "chainId": "robinhood",
     "dexId": "uniswap",
-    "url": "https://dexscreener.com/robinhood/0x0000000",
-    "pairAddress": "0x000000000000000000000",
+    "url": "https://dexscreener.com/robinhood/0xb80213352935dae8615565659d02e1012175d947725412f96fbec46334a36e4d",
+    "pairAddress": "0xb80213352935dae8615565659d02e1012175d947725412f96fbec46334a36e4d",
     "labels": [
       "v4"
     ],
