@@ -112,7 +112,7 @@ export const TokenSection: React.FC<TokenSectionProps> = ({ onCopy }) => {
             </li>
             <li>
               <span>Launch</span>
-              <b>Orbio Launchpad</b>
+              <b>Pons Launchpad</b>
             </li>
             <li>
               <span>Roadmap</span>
