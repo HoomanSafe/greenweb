@@ -104,7 +104,7 @@ export const TokenSection: React.FC<TokenSectionProps> = ({ onCopy }) => {
           <ul className="tk">
             <li>
               <span>Ticker</span>
-              <b>$GREENLIGHT</b>
+              <b>$GLIHT</b>
             </li>
             <li>
               <span>Chain</span>
